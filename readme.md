@@ -1,6 +1,5 @@
-蓝奏网盘
-https://wwyu.lanzoub.com/iheRa0xmorbi
 
+CSGO参数
 
 存放路径 \Steam\userdata\steam的ID号码\730\local\cfg
 

@@ -1,5 +1,5 @@
 
-CSGO参数
+#CSGO参数
 
 存放路径 \Steam\userdata\steam的ID号码\730\local\cfg
 

@@ -9,3 +9,6 @@ c 一键大跳
 
 
 控制台 exec aaaa
+
+
+-noforcemaccel -noforcemparms -freq 120 -novid -tickrate 128 -console +cl_interp_ratio 1   +exec aaaa.cfg
